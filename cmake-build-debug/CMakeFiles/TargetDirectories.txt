@@ -1,0 +1,3 @@
+C:/Users/anasn/CLionProjects/Suika_Game/cmake-build-debug/CMakeFiles/Suika_Game.dir
+C:/Users/anasn/CLionProjects/Suika_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anasn/CLionProjects/Suika_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
